@@ -72,7 +72,7 @@
                         <div class="hamburger" onclick="togNav()"></div>
                     </div>
                     <div id="sidenav" class="col-auto sidenav">
-                        <div class="col-sm-auto a_e_font menu__item"><a href="employer.html">Are you an Employer?</a>
+                        <div class="col-sm-auto a_e_font menu__item"><a href="employer">Are you an Employer?</a>
                         </div>
                         <div class="col-sm-auto menu__item"><a href="https://app.tsdeet.com/#/signup-jobseeker"
                                 target="_blank">Sign Up</a></div>
