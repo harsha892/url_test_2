@@ -1,4 +1,4 @@
-RewriteEngine On
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME}\.html -f
-RewriteRule ^(.*)$ $1.html [NC,L]
+Redirect 301 "https://www.urltestapp.herokuapp.com/" "https://urltestapp.herokuapp.com/"
+Redirect 301 "https://www.urltestapp.herokuapp.com/index.html" "https://urltestapp.herokuapp.com/"
+#employer
+Redirect 301 "https://www.urltestapp.herokuapp.com/employer.html" "https://urltestapp.herokuapp.com/employer.html"
