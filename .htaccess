@@ -1,3 +1,4 @@
+RewriteEngine On
 Redirect 301 "https://www.urltestapp.herokuapp.com/" "https://urltestapp.herokuapp.com/"
 Redirect 301 "/index.php" "https://urltestapp.herokuapp.com/"
 #employer
