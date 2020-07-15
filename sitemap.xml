@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<!-- Created by Kumar Shivam -->
+
+<url><loc>https://www.tsdeet.com/</loc><lastmod>2020-03-17T06:23:25+00:00</lastmod><changefreq>daily</changefreq><priority>1.00</priority></url>
+
+<url><loc>https://www.tsdeet.com/employer.html</loc><lastmod>2020-03-17T06:23:21+00:00</lastmod><priority>0.85</priority></url>
+
+<url><loc>https://app.tsdeet.com/</loc><lastmod>2020-03-17T06:57:11+00:00</lastmod><priority>0.85</priority></url>
+
+<url><loc>https://emp.tsdeet.com/</loc><lastmod>2020-03-13T02:56:53+00:00</lastmod><priority>0.85</priority></url>
+
+<url><loc>https://tsdeet.com/gallery.html/</loc><lastmod>2020-03-13T02:56:53+00:00</lastmod><priority>0.65</priority></url>
+
+<url><loc>https://tsdeet.com/faq.html</loc><lastmod>2020-03-13T02:57:53+00:00</lastmod><priority>0.65</priority></url>
+
+<url><loc>https://tsdeet.com/privacy.html</loc><lastmod>2020-03-13T02:57:55+00:00</lastmod><priority>0.65</priority></url>
+
+<url><loc>tsdeet.com/terms.html</loc><lastmod>2020-03-13T02:57:57+00:00</lastmod><priority>0.65</priority></url>
+</urlset>

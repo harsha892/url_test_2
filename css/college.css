@@ -1,0 +1,16 @@
+.img-size{
+    width: 255px;
+    height: 205px;
+    margin-left: 50px;
+  }
+  /* .layout-hero__inner{
+    height: 27em;
+  } */
+  h3{
+    font-size: 16px !important;
+    text-align: center;
+    margin-top: -21px !important;
+    font-weight: 500 !important;
+    margin-bottom: 14px;
+
+  }

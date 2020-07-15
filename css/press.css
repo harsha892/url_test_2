@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+  }
+
+  .img-size{
+    width: 255px;
+    height: 323px;
+    margin-left: 50px;
+  }
+  
+  h3{
+    margin-top: -16px !important;
+    margin-bottom: 20px !important;
+    font-size: 16px !important;
+    font-weight: 500 !important;
+  }
+ 

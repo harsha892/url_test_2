@@ -1,0 +1,54 @@
+<footer class="footer-w-block-before aos-init aos-animate" data-aos="fade" data-aos-offset="-550">
+    <div class="container-fluid hero-footer">
+        <div class="container">
+            <div class="row">
+                <div class="margin-0-auto">
+                    <ul>
+                        <!-- <li class="col-sm-auto"><a href="about.html">About Us</a></li> -->
+                        <!-- <li class="col-sm-auto"><a href="careers.html">Careers</a></li> -->
+                        <li class="col-sm-auto"><a href="../gallery.html">Gallery</a></li>
+                        <li class="col-sm-auto"><a href="../faq.html">FAQ</a></li>
+                        <li class="col-sm-auto "><a href="../privacy.html">Privacy</a></li>
+                        <li class="col-sm-auto"><a href="../terms.html">Terms</a></li>
+                        <li class="col-sm-auto"><a href="mailto:help@tsdeet.com">Support</a></li>
+                        <li class="col-sm-auto"><a href="https://medium.com/@deet_telangana" target="_blank">Blog</a>
+                        </li>
+                        <!-- <li class="col-sm-auto"><a href="https://www.blog.workruit.com">Blog</a></li> -->
+                    </ul>
+                </div>
+            </div>
+            <div class="row socials">
+                <div class="margin-0-auto">
+                    <a target="_blank" href="https://www.facebook.com/tsdeet/"><img src="images/f-facebook.svg"
+                            alt="f-facebook"></a>
+                    <a target="_blank" href="https://twitter.com/tsdeet1"><img src="images/f-twitter.svg"
+                            alt="f-twitter"></a>
+                    <!-- <a target="_blank" href="https://www.linkedin.com/company/workruit"><img
+                                    src="images/f-linkedin.svg" alt="f-linkedin"></a> -->
+                    <a target="_blank" href="https://www.instagram.com/tsdeet/"><img src="images/f-instagram.svg"
+                            alt="f-instagram"></a>
+                </div>
+            </div>
+            <div class="row copyright">
+                <div class="col-12">
+                    <p>© <span id="year"></span> StoryTech Pvt Ltd. All Rights Reserved</p>
+                </div>
+                <div class="col-12">
+                    <a href="https://www.workruit.com" target="_blank"><img src="images/poweredbyWorkruit-white.svg"
+                            width="150px" alt="f-instagram"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script>
+    $(function () {
+        var link = window.location.href.split('/')[window.location.href.split('/').length - 1];
+        $('.hero-footer li a[href^="../' + link + '"]').addClass('footer__active');
+    });
+</script>
+<script>
+    var date = new Date().getFullYear();
+    document.getElementById("year").innerHTML = date;
+</script>
