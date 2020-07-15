@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 3840 2160" style="enable-background:new 0 0 3840 2160;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_3_);}
+	.st2{filter:url(#Adobe_OpacityMaskFilter);}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st4{mask:url(#mask-3_1_);}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:url(#path-5_1_);}
+	.st6{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;fill-opacity:9.000000e-02;}
+	.st7{filter:url(#Adobe_OpacityMaskFilter_1_);}
+	.st8{mask:url(#mask-3_2_);}
+	.st9{fill-rule:evenodd;clip-rule:evenodd;fill:url(#path-7_1_);}
+	.st10{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;fill-opacity:0.19;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="-2.9" y="-0.9" width="3841.3" height="2157.9"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<title>hero-inner</title>
+	<desc>Created with Sketch.</desc>
+	<g id="development" class="st0">
+		<g id="hero-inner">
+			<g id="gradient">
+				<g id="Mask">
+					
+						<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="0.8087" y1="2159.0869" x2="-0.1661" y2="2160.3958" gradientTransform="matrix(3782.6458 661.2044 371.7139 -2126.5164 -802685.875 4592961)">
+						<stop  offset="0" style="stop-color:#3EBB64"/>
+						<stop  offset="1" style="stop-color:#337AB7"/>
+					</linearGradient>
+					<polygon class="st1" points="-343.5,-775.2 4681.6,103.2 4343.6,2036.7 -837.3,2049.8 					"/>
+				</g>
+				<defs>
+					<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="-841.6" y="1439.9" width="5213.3" height="634.6">
+						<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+					</filter>
+				</defs>
+				<mask maskUnits="userSpaceOnUse" x="-841.6" y="1439.9" width="5213.3" height="634.6" id="mask-3_1_">
+					<g class="st2">
+						<polygon id="path-2_1_" class="st3" points="-343.5,-775.2 4681.6,103.2 4343.6,2036.7 -837.3,2049.8 						"/>
+					</g>
+				</mask>
+				<g class="st4">
+					<g>
+						
+							<linearGradient id="path-5_1_" gradientUnits="userSpaceOnUse" x1="0.627" y1="2159.0264" x2="-0.3893" y2="2160.6506" gradientTransform="matrix(3782.6458 661.2044 141.6483 -810.3477 -305977.5938 1751371.625)">
+							<stop  offset="0" style="stop-color:#3EBB64"/>
+							<stop  offset="1" style="stop-color:#337AB7"/>
+						</linearGradient>
+						<polygon id="path-5" class="st5" points="-730.7,1439.9 4371.7,1876.4 4340.3,2055.7 -841.6,2074.6 						"/>
+					</g>
+					<g>
+						<polygon class="st6" points="-730.7,1439.9 4371.7,1876.4 4340.3,2055.7 -841.6,2074.6 						"/>
+					</g>
+				</g>
+				<defs>
+					<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="-837.1" y="1753.9" width="5200.7" height="878.4">
+						<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+					</filter>
+				</defs>
+				<mask maskUnits="userSpaceOnUse" x="-837.1" y="1753.9" width="5200.7" height="878.4" id="mask-3_2_">
+					<g class="st7">
+						<polygon id="path-2_2_" class="st3" points="-343.5,-775.2 4681.6,103.2 4343.6,2036.7 -837.3,2049.8 						"/>
+					</g>
+				</mask>
+				<g id="Mask-Copy" class="st8">
+					<g>
+						
+							<linearGradient id="path-7_1_" gradientUnits="userSpaceOnUse" x1="0.7231" y1="2158.0945" x2="-2.434235e-02" y2="2161.8215" gradientTransform="matrix(3782.6458 661.2044 132.2111 -756.3586 -285599.125 1634789.75)">
+							<stop  offset="0" style="stop-color:#3EBB64"/>
+							<stop  offset="1" style="stop-color:#337AB7"/>
+						</linearGradient>
+						<polygon id="path-7" class="st9" points="-785.6,1753.9 4363.6,1922.3 4239.5,2632.3 -837.1,2048.7 						"/>
+					</g>
+					<g>
+						<polygon class="st10" points="-785.6,1753.9 4363.6,1922.3 4239.5,2632.3 -837.1,2048.7 						"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
